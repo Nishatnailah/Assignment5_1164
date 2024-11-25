@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+
+    <string-array name="App_info">
+        <item>Android Studio is Google\'s official integrated development environment (IDE) for building Android apps, offering powerful tools like code editing, debugging, and emulation.</item>
+        <item>CodeBlocks is a free, open-source IDE designed for C, C++, and Fortran programming, offering a customizable, modular interface for efficient development.</item>
+        <item>Visual Studio Code (VS Code) is a free, open-source code editor developed by Microsoft, offering features like debugging, version control, and extensions for various programming languages.</item>
+        <item>Emu8086 is a microprocessor emulator and assembly language programming tool that simulates the Intel 8086 CPU, helping users learn low-level programming through practical examples.</item>
+        <item>Cisco Packet Tracer is a network simulation tool that allows users to design, visualize, and test network configurations in a virtual environment.</item>
+        <item>Proteus is a simulation software used for designing and testing electronic circuits, providing both virtual testing and PCB design capabilities.</item>
+        <item>AutoCAD is a powerful computer-aided design (CAD) software used for creating precise 2D and 3D drawings, primarily for architecture, engineering, and construction projects.</item>
+        <item>PHP is a server-side scripting language widely used for web development to create dynamic and interactive web pages.</item>
+        <item>ChatGPT is an AI language model developed by OpenAI, designed to assist users by generating human-like text responses for a variety of applications.</item>
+        <item>GitHub is a platform for version control and collaborative software development, allowing developers to share and manage code using Git.</item>
+
+
+    </string-array>
+
+
+    <string-array name="App_Names">
+        <item>Android Studio</item>
+        <item>CodeBlocks</item>
+        <item>VS code</item>
+        <item>Emu8086</item>
+        <item>Cisco Packet Tracer</item>
+        <item>Proteus</item>
+        <item>AutoCAD</item>
+        <item>PHP</item>
+        <item>ChatGPT</item>
+        <item>GitHub</item>
+
+
+
+    </string-array>
+
+
+</resources>
